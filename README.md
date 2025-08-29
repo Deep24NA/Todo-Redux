@@ -27,7 +27,7 @@ You can **add, edit, delete, and mark todos as completed**, and your tasks stay 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Deep24NA/todo-app.git
+   git clone https://github.com/Deep24NA/Todo-Redux.git
    cd todo-app
 
 
